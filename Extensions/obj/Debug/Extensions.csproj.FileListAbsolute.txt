@@ -1,0 +1,4 @@
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Extensions\bin\Debug\Extensions.dll
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Extensions\bin\Debug\Extensions.pdb
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Extensions\obj\Debug\Extensions.dll
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Extensions\obj\Debug\Extensions.pdb

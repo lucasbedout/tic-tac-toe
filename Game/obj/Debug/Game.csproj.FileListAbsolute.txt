@@ -1,0 +1,7 @@
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\bin\Debug\Game.dll
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\bin\Debug\Game.pdb
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\obj\Debug\Game.dll
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\obj\Debug\Game.pdb
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\bin\Debug\Extensions.dll
+E:\Documents\Projets\Visual Studio\MorpionIA\MorpionIA\Game\bin\Debug\Extensions.pdb
